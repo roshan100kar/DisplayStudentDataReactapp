@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "Name": "Roshan",
+    "Address": "Nagpur",
+    "Subject": "Java"
+
+  },
+
+  {
+    "id": 2,
+    "Name": "Katrina",
+    "Address": "New York ",
+    "Subject": "Java"
+
+  },
+  {
+    "id": 3,
+    "Name": "Deepika",
+    "Address": "Mumbai",
+    "Subject": "Java"
+
+  }
+
+
+]
